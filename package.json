@@ -1,0 +1,35 @@
+{
+  "name": "popbot-nodejs",
+  "version": "1.0.0",
+  "description": "A NodeJS version of PopBot to automate pops in popcat.click, made with AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astrookai/PopBot.git"
+  },
+  "keywords": [
+    "popcat",
+    "popcathack",
+    "popcatscript",
+    "popcatautoclick",
+    "popcat-bot",
+    "popcat-hack",
+    "popcat-script",
+    "popcat-auto-click",
+    "popcat-bomber",
+    "popcat-click",
+    "popbot"
+  ],
+  "author": "AstrooKai",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Astrookai/PopBot/issues"
+  },
+  "homepage": "https://github.com/Astrookai/PopBot#README.md",
+  "dependencies": {
+    "puppeteer": "24.8.2"
+  }
+}

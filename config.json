@@ -1,0 +1,8 @@
+{
+    "POP_AMOUNT": 800,
+    "INTERVAL_MS": 30000,
+    "COUNTRY": "PH",
+    "DEBUG": true,
+    "MAX_POPS": null,
+    "ENABLE_STATS": true
+}
